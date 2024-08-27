@@ -181,6 +181,8 @@ function App() {
           />
           <label htmlFor="characterInput">Characters</label>
       </div>
+
+      
     </div>
 </div>
     
